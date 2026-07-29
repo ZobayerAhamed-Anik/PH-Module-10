@@ -14,4 +14,8 @@ console.log(player2);
 console.log(player3);
 console.log(player4);
 console.log(player5);
+console.log();
 
+console.log(players[players.length - 1]);
+players[1] = 'Bulbul';
+console.log(players);
